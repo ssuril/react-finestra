@@ -1,0 +1,21 @@
+.dashboard{
+    position:fixed;
+    top:0%;
+    left:150px;
+    width:100%;
+    height:100%;
+    background-color: rgb(241, 241, 236); 
+    overflow-y: scroll;
+}
+
+.custsetup{
+    text-align: left;
+}
+
+.fetchcustinfo{
+    text-align: left;
+}
+.headertext {
+    color: rgb(13, 33, 146); 
+    font: italic bold 30px Arial, sans-serif;
+  }

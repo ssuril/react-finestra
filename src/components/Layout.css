@@ -1,0 +1,25 @@
+
+
+/* .nav {
+    position:fixed;
+    top:0;
+    left:250px;
+    width:100%;
+    height:10%;
+    background-color: rgb(2, 10, 26); 
+    font-family: serif;
+    font-size: larger;
+    text-align: left;
+    text-decoration-style: double;
+  } */
+
+.Outer{
+    position:fixed;
+    top:0;
+    left:150px;
+    width:100%;
+    height:100%;
+    background-color: rgb(243, 242, 248); 
+}
+
+  

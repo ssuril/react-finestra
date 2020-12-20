@@ -1,0 +1,11 @@
+* {
+    font-family: century gothic;
+    font-weight: normal;
+    font-size: large;
+  }
+  
+
+.txnrating {
+    position:fixed;
+    left:1150px;
+}
